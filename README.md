@@ -8,3 +8,5 @@
 ### Learning
 
 [![My Langs](https://skillicons.dev/icons?i=robloxstudio,lua,vscode,visualstudio,kali,c,cs)](https://skillicons.dev)
+
+<hr>
